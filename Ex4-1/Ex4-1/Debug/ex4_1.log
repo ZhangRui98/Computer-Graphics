@@ -1,0 +1,4 @@
+﻿  StdAfx.cpp
+  ex4_1.cpp
+ex4_1.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  ex4_1.vcxproj -> D:\My Documents\可视化编程技术及其应用\Ex4-1\.\Debug\ex4_1.exe
